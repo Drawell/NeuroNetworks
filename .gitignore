@@ -1,2 +1,5 @@
 Python/.idea/
 Python/venv/
+Python/labelimg/
+Python/Tensorflow/models/
+Python/Tensorflow/workspace/pre-trained-models/
